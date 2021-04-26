@@ -7,7 +7,7 @@
 #include <cstdarg>
 #include <cstring>
 #include <ctime>
-
+//王逸奔到此一游
 #define MAX_STACK_FRAMES 50
 #define LOG_OUTPUT_PATH ".\\logs\\TrackBack.log"
 #define DUMP_OUTPUT_PATH L".\\logs\\CrashDump.dmp"
